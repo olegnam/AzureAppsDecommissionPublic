@@ -18,9 +18,3 @@ This is destructive automation and should only be used in controlled, validated 
 - Ensure you are connected to the correct Azure subscription
 - Never commit `apps-to-delete.csv` or generated output files
 - Review all planned deletions before using `-Delete`
-
-## Reporting a security issue
-
-Please do not disclose sensitive Azure identifiers, credentials, or environment details in a public issue.
-
-If you discover a security issue or a dangerous behavior in this project, report it privately through the repository owner or GitHub security reporting flow.
