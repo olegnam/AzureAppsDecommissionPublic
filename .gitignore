@@ -1,0 +1,21 @@
+# User input files and generated output
+apps-to-delete.csv
+*.csv
+
+# Generated Azure audit and export files
+*.json
+private-endpoint-audit_*.json
+
+# Local environment files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+
+# PowerShell artifacts
+*.ps1xml
+
+# Temporary files
+*.tmp
+*.bak
